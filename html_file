@@ -1,0 +1,26 @@
+<div id="main">
+  <h1 id="title">Mahatma Gandhi</h1>
+  <div>The Father of Indian Nation</div>
+  <div id="img-div">
+    <img id="image" src="https://cdn-images-1.medium.com/max/800/1*omubHP3AmKqSsJQO6OZ5bg.jpeg" alt ="Mahatma Gandhi">
+    <div id="img-caption">
+       Indian activist who was the leader of the Indian independence movement against British rule
+    </div>
+  </div>
+  <div id="tribute-info">
+    <ul>
+      <h3 id="headline">Here's a time line of Mahatma Gandhi:</h3>
+      <li><strong>1869</strong> - Born in Porbandar,Gujarat</li>
+      <li><strong>1887</strong> - 18-year-old Gandhi graduated from high school in Ahmedabad</li>
+      <li><strong>1893</strong> - He spent 21 years in South Africa, where he developed his political views, ethics and politics.</li>
+      <li><strong>1903</strong> - When British Declared war against Zulu Kingdom he encouraged the Indian volunteers to help as an ambulance unit.</li>
+      <li><strong>1910</strong> - Gandhi established an idealistic community called 'Tolstoy Farm' near Johannesburg, where he nurtured his policy of peaceful resistance.</li>
+      <li><strong>1942</strong> - Speech about Quit India Movement in Mumbai.</li>
+      <li><strong>1948</strong> - dies at the age of 79.</li>
+    </ul>
+    <blockquote>
+      <p>Gandhi demanded fair treatment for the untouchables, India’s lowest caste, and he underwent several fasts to support the cause. He called the untouchables harijans, which means "children of God."</p>
+    </blockquote>
+    <h3>If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="_blank">Biography</a>.</h3>
+  </div>
+</div>
